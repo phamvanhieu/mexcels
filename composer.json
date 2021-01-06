@@ -1,15 +1,15 @@
 {
-    "name": "foostart/package-pexcel",
-    "description": "Create overview pexcel can intergrate other project",
+    "name": "phamvanieu/package-mexcel",
+    "description": "Create overview mexcel can intergrate other project",
     "keywords": [
         "foostart",
-        "laravel 5 package pexcel"
+        "laravel 5 package mexcel"
     ],
     "authors": [
         {
-            "name": "FooStart",
-            "email": "foostart.com@gmail.com",
-            "homepage": "http://foostart.com"
+            "name": "PhamVanHieu",
+            "email": "phamvanhieu.com@gmail.com",
+            "homepage": "http://phamvanhieu.com"
         }
     ],
     "license": "MIT",
